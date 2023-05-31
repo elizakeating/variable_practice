@@ -6,3 +6,6 @@ siblings = 1
 favorite_number = 28
 price = 4.50
 second_float = 7.99
+tired = true
+excited = true
+hungry = false
